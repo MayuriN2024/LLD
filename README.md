@@ -3,11 +3,11 @@
 # LLD
 <h1>1. Solid Principle</h1>
 
-s:  	Single Responsibility Principle	------------A class should have only one reason to change (only one responsibility).
-O : 	Open/Closed Principle----------------------	Software entities should be open for extension but closed for modification.
-L : 	Liskov Substitution Principle	-------------------Subclasses should be replaceable for their base classes without breaking functionality.
-I : 	Interface Segregation Principle-----------------	No client should be forced to depend on interfaces it doesn’t use.
-D : 	Dependency Inversion Principle--------------------	Depend on abstractions, not on concrete implementations.
+s:  	Single Responsibility Principle	---A class should have only one reason to change (only one responsibility).
+O : 	Open/Closed Principle---	Software entities should be open for extension but closed for modification.
+L : 	Liskov Substitution Principle	----Subclasses should be replaceable for their base classes without breaking functionality.
+I : 	Interface Segregation Principle---	No client should be forced to depend on interfaces it doesn’t use.
+D : 	Dependency Inversion Principle----	Depend on abstractions, not on concrete implementations.
 
 
 
